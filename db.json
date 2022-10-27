@@ -1,42 +1,42 @@
 {
   "projects": [
-  {
-    "id": 0,
-    "name": "Project Name",
-    "lastUpdatedUtc": "0001-01-01T00:00:00",
-    "status": "inprogress",
-    "freight": 85.65,
-    "salesTax": 123.25,
-    "createdBy": "John Anderson",
-    "dateSent": "0001-01-01T00:00:00",
-    "account": {
-      "contactEmailAddress": "test@test.com",
-      "contactName": "John Smith",
-      "contactPhoneNumber": "9876543210",
-      "zipCode": "98765"
-      },
-    "products": null,
-    "attachements": null,
-    "quotePrice": 20089.99
-  },
-  {
-    "id": 1,
-    "name": "Pepe's Kitchen",
-    "lastUpdatedUtc": "0001-01-01T00:00:00",
-    "status": "inprogress",
-    "freight": 85.65,
-    "salesTax": 123.25,
-    "createdBy": "John Anderson",
-    "dateSent": "0001-01-01T00:00:00",
-    "account": {
-      "contactEmailAddress": "test@test.com",
-      "contactName": "John Smith",
-      "contactPhoneNumber": "9876543210",
-      "zipCode": "98765"
-      },
-    "products": null,
-    "attachements": null,
-    "quotePrice": 500.00
-  }
-]
+    {
+      "id": 0,
+      "name": "Project Name",
+      "lastUpdatedUtc": "0001-01-01T00:00:00",
+      "status": "inprogress",
+      "freight": 85.65,
+      "salesTax": 123.25,
+      "createdBy": "John Anderson",
+      "dateSent": "0001-01-01T00:00:00",
+      "account": {
+        "contactEmailAddress": "test@test.com",
+        "contactName": "John Smith",
+        "contactPhoneNumber": "9876543210",
+        "zipCode": "98765"
+        },
+      "products": null,
+      "attachements": null,
+      "quotePrice": 20089.99
+    },
+    {
+      "id": 1,
+      "name": "Pepe's Kitchen",
+      "lastUpdatedUtc": "0001-01-01T00:00:00",
+      "status": "inprogress",
+      "freight": 85.65,
+      "salesTax": 123.25,
+      "createdBy": "John Anderson",
+      "dateSent": "0001-01-01T00:00:00",
+      "account": {
+        "contactEmailAddress": "test@test.com",
+        "contactName": "John Smith",
+        "contactPhoneNumber": "9876543210",
+        "zipCode": "98765"
+        },
+      "products": null,
+      "attachements": null,
+      "quotePrice": 500.00
+    }
+  ]
 }

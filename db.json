@@ -1,5 +1,4 @@
-{
-  "projects":
+[
   {
     "id": 0,
     "name": "Project Name",
@@ -38,4 +37,4 @@
     "attachements": null,
     "quotePrice": 500.00
   }
-}
+]
